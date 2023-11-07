@@ -28,7 +28,7 @@ plt.show()
 
 """
 
-import matplotlib.pyplot as plt
+"""import matplotlib.pyplot as plt
 import numpy as np
 
 x=np.arange(1,10,0.1)
@@ -54,4 +54,5 @@ plt.show()
 plt.subplot(2,2,4)
 plt.plot(x,y4,'ks')
 plt.title('$y4=x^3$')
-plt.show()
+plt.show()"""
+
